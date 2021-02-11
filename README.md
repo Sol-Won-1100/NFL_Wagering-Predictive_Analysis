@@ -1,5 +1,4 @@
-# NFL_Wagering-Predictive_Analysis
-Project for Capstone Masters focused on NFL Wagering – Predictive Analytics
+# NFL_Wagering-Predictive_Analysis  
 
 Sports betting is not a new phenomenon in the United States, but due to recent legislation, it is experiencing a surge. With 25 states now allowing their residents to wager on sporting events in varying capacities, consumers are searching for tools to assist in making predictions or rather, to gain an edge in their selection process. Resources are available, but often they are not validated, are high priced, and do not provide any true guidance. With the work being conducted under this proposal, the hope is that through data science, the average gambler can be informed in making their selections.  
 
